@@ -1,0 +1,43 @@
+.apellido{
+    color: #86EA80;
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Dela Gothic One', cursive;
+}
+#primero{
+    color: blue;
+}
+
+
+
+#menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(67, 152, 188);
+}
+
+#menu li{
+    float:left;
+}
+#menu li a{
+    display: block;
+    padding: 15px 25px;
+    text-decoration: none;
+    color: aliceblue;
+}
+#menu li a:hover{
+    border-bottom: 2px solid rgb(0, 195, 255);
+    padding: 15px 25px 13px;
+}
+div{
+    text-align: center;
+}
+img{
+    height: 400px;
+    width: 400px;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: #07f45a;
+}
